@@ -134,31 +134,6 @@ Este espaço reúne meus projetos de estudo e será atualizado conforme eu evolu
 
 ---
 
-## 🧠 Mentalidade de aprendizado
-
-```python
-class MinhaJornada:
-    def __init__(self):
-        self.status = "Em evolução"
-        self.metodo = [
-            "Estudar os fundamentos",
-            "Praticar com projetos",
-            "Entender os próprios erros",
-            "Documentar o aprendizado",
-            "Melhorar continuamente"
-        ]
-
-    def proximo_passo(self):
-        return "Aprender, aplicar e evoluir."
-
-jornada = MinhaJornada()
-print(jornada.proximo_passo())
-```
-
-Meu foco neste momento é construir uma base consistente, sem pular etapas. Quero desenvolver autonomia para aprender novas tecnologias, solucionar problemas e compreender os conceitos por trás das ferramentas que utilizo.
-
----
-
 ## 🎯 Próximos objetivos
 
 - [ ] Consolidar minha lógica de programação com C++.
